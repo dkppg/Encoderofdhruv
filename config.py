@@ -16,10 +16,10 @@ class Config(object):
   REDIS_PASS = os.environ.get("REDIS_PASS")
   DOWNLOAD_LOCATION = "downloads"
 
-Config.AUTH_USERS = [1943966786, 5126929234, -1001737980489, 1221558981]
-Config.API_ID = 17567723
-Config.API_HASH = "b929b76526a9964818f1ed2bd0166d5b"
-Config.BOT_TOKEN = "5151739606:AAFMTWQS7mhmvnQVn1bLwgX3s7nY_wf62k8"
-Config.REDIS_HOST = "redis-17161.c270.us-east-1-3.ec2.cloud.redislabs.com"
-Config.REDIS_PASS = "wIW3pfcwu2UXkkNzsOpRsuX4OomCcexE"
-REDIS_PORT = "17161"
+Config.AUTH_USERS = [2067727305]
+Config.API_ID = 14604313
+Config.API_HASH = "a8ee65e5057b3f05cf9f28b71667203a"
+Config.BOT_TOKEN = "5433519682:AAGalXAhE4h2FuVBTnJTsyIOPo6xYgH1UwY"
+Config.REDIS_HOST = "redis-10344.c275.us-east-1-4.ec2.cloud.redislabs.com"
+Config.REDIS_PASS = "2bdmUMBhHt1q7dalbm3MnKbOmWFMsgaP"
+REDIS_PORT = "10344"
